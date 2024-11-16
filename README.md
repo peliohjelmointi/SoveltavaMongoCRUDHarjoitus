@@ -1,4 +1,4 @@
-1.1) Kloonaa harjoitus githubista osoitteesta:<br>
+1.1) Kloonaa harjoitus githubista <br>
 1.2) Avaa kloonattu kansio ja luo virtuaaliympäristö<br>
 1.3) Asenna tarvittavat moduulit requirements.txt -tiedostosta<br>
 1.4) Luo .gitignore -tiedosto, tai käytä olemassa olevaa Pythonille tehtyä tiedostoa<br>
